@@ -1,0 +1,9 @@
+follow the commande below to get started!
+
+cd backend
+npm i
+npx nodemon
+
+cd ../frontend
+yarn
+yarn dev

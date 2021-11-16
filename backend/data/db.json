@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server-test",
+      "author": "Max"
+    },
+    {
+      "id": 3,
+      "title": "Hello",
+      "author": "maxim"
+    },
+    {
+      "id": 4,
+      "title": "Whats up",
+      "author": "max"
+    },
+    {
+      "id": 5,
+      "title": "Ayo!",
+      "author": "M"
+    },
+    {
+      "title": "dfs",
+      "body": "sdfdsf",
+      "author": "manjot",
+      "id": 6
+    },
+    {
+      "title": "dadf",
+      "body": "asdsad",
+      "author": "manjot",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Hey does this work?",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "Yes!",
+      "postId": 2
+    }
+  ],
+  "profiles": [
+    {
+      "name": "typicode"
+    },
+    {
+      "name": "Max"
+    }
+  ]
+}
